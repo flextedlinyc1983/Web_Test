@@ -12,9 +12,18 @@
     * [acunetix]
 * [Test]
     * [Animation]
+* [Resources](#resources)
 
 
 
 ## Tools
 	* Test2
     	* Animation2
+
+
+## Resources
+
+
+
+* [API documentation](http://api.jquery.com/) - Official jQuery documentation.
+* [Code School](https://www.codeschool.com/courses/try-jquery) - Learn the basic building blocks of jQuery 2.0 and enjoy new video tutorials for beginners with related programming challenges.
