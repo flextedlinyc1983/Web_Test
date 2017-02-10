@@ -1,18 +1,26 @@
 ## vulnerability
 
 * [Tools](#tools)
+	* [Kali Linux]
+		* 滲透測試
+	* [nexpose]
  	* [OpenVAS]
  	* [OWASP]
  		* Open Web App Security Project
     * [nikto]
     * [nessus]
-        * [Free Books]
-        * [Paid Books]
+        * 免費
     * [w3af]
     * [snort]
     * [burp suite]
     * [wikto]
     * [acunetix]
+    	* 14天試用
+    * [fortify]
+    	* 須付費
+    * [IBM Rational Appscan]
+    	* 須付費
+    * [Milescan Web Security Auditor]
     * [netsparker]
     * [N-Stalker Web](http://des13.com/news/news/527-websafe)
     * [websecurify]
@@ -53,4 +61,9 @@
     * Animation5
 
 ## Refs
-	* [owasp](http://sunmr.blogspot.tw/2016/05/acunetix-wvs-vs-owasp-top-10.html)
+	
+* [owasp](http://sunmr.blogspot.tw/2016/05/acunetix-wvs-vs-owasp-top-10.html)
+* [nexpose](http://w1a2d3s4q5e6.blogspot.tw/2016/08/blog-post_9.html)
+* [tutorial_pdf_1](http://tprc.tanet.edu.tw/tpnet2014/training/10309.pdf)
+* [introduce_1](http://nicaliu.pixnet.net/blog/post/29579920-26-%E5%A5%97%E6%8F%90%E4%BE%9B%E5%95%86%E7%94%A8%E6%94%AF%E6%8F%B4%E7%9A%84%E9%96%8B%E6%94%BE%E6%BA%90%E7%A2%BC%E5%AE%89%E5%85%A8%E6%80%A7%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F)
+* [introduce_2](http://sls.weco.net/node/24319)
