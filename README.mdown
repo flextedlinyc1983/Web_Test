@@ -10,6 +10,10 @@
     * [burp suite]
     * [wikto]
     * [acunetix]
+    * [netsparker]
+    * [N-Stalker Web](http://des13.com/news/news/527-websafe)
+    
+    
 * [Test]
     * [Animation]
 * [Resources](#resources)
